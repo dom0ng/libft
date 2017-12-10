@@ -56,7 +56,6 @@ ft_tolower		| | |
 Notes:
 
 - Most of the the files and function names are namespaced with an **ft** in front. It stands for [42][2] School.
-- The project instructions require that we put all the source files in the root directory but for the sake of this Github repo, I separate them into sub folders.
 
 My code is not the best, but it passed all the 42 tests successfully.
 
