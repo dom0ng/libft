@@ -6,7 +6,7 @@
 #    By: julin <marvin@42.fr>                       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/11/30 23:02:16 by julin             #+#    #+#              #
-#    Updated: 2017/12/01 00:31:07 by julin            ###   ########.fr        #
+#    Updated: 2018/09/02 07:22:19 by julin            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -75,6 +75,8 @@ SRC		=	ft_atoi.c \
 			ft_strtrim.c \
 			ft_tolower.c \
 			ft_toupper.c \
+			ft_read.c \
+			get_next_line.c \
 			
 OBJS	=	$(SRC:.c=.o)
 

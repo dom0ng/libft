@@ -6,11 +6,11 @@
 /*   By: julin <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/04/23 01:47:53 by julin             #+#    #+#             */
-/*   Updated: 2018/04/23 04:09:42 by julin            ###   ########.fr       */
+/*   Updated: 2018/09/02 07:22:56 by julin            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "libft.h"
 
 /*
 **** Get the file descriptor five in param.
