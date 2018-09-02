@@ -25,7 +25,7 @@ As you can see from the [Subject][1], there are 4 sections:
 
 Libft functions | Additional functions | Bonus Functions | Personal Functions | Project Functions
 :----------- | :-----------: | :-----------: | -----------: | -----------:
-ft_memset		| ft_memalloc	| ft_lstnew		| ft_memicmp
+ft_memset		| ft_memalloc	| ft_lstnew		| ft_memicmp | get_next_line
 ft_bzero		| ft_memdel		| ft_lstdelone	| ft_memswp
 ft_memcpy		| ft_strnew		| ft_lstdel		| ft_strlswp
 ft_memccpy		| ft_strdel		| ft_lstadd		| ft_strnswp
