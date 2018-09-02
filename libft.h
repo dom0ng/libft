@@ -13,6 +13,7 @@
 #ifndef LIBFT_H
 # define LIBFT_H
 
+# define BUFF_SIZE 65536
 # include <string.h>
 # include <unistd.h>
 # include <stdlib.h>
@@ -87,5 +88,7 @@ void				ft_memswp(void *a, void *b, size_t len);
 void				ft_strlswp(char *s1, char *s2);
 void				ft_strnswp(char *s1, char *s2, int n);
 void				ft_strswp(char *s1, char *s2);
+int					get_next_line(const int fd, char **line);
+char				*ft_read(int fd);
 
 #endif
