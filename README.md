@@ -20,10 +20,11 @@ As you can see from the [Subject][1], there are 4 sections:
 2.  **Additional functions:** Functions 42 deems will be useful for later projects
 3.  **Bonus Functions:** Functions 42 deems will be useful for linked list manipulation
 4.  **Personal Functions** 
+5.  **Project Functions**:** Functions 42 Projects will be useful for later.
 
 
-Libft functions | Additional functions | Bonus Functions | Personal Functions
-:----------- | :-----------: | :-----------: | -----------:
+Libft functions | Additional functions | Bonus Functions | Personal Functions | Project Functions
+:----------- | :-----------: | :-----------: | -----------: | -----------:
 ft_memset		| ft_memalloc	| ft_lstnew		| ft_memicmp
 ft_bzero		| ft_memdel		| ft_lstdelone	| ft_memswp
 ft_memcpy		| ft_strnew		| ft_lstdel		| ft_strlswp
