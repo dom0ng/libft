@@ -29,7 +29,7 @@ ft_bzero		| ft_memdel		| ft_lstdelone	| ft_memswp
 ft_memcpy		| ft_strnew		| ft_lstdel		| ft_strlswp
 ft_memccpy		| ft_strdel		| ft_lstadd		| ft_strnswp
 ft_memmove		| ft_strclr		| ft_lstiter	| ft_strswp
-ft_memchr		| ft_striter	| ft_lstmap		| 
+ft_memchr		| ft_striter	| ft_lstmap		| ft_read
 ft_memcmp		| ft_striteri	|				| 
 ft_strlen		| ft_strmap		|				| 
 ft_strdup		| ft_strmapi	|				| 
