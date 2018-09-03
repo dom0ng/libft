@@ -78,7 +78,9 @@ Now to clean up (removing the .o files and the .c files from the root), call `ma
 
 This is a list of my projects that use Libft extensively:
 
-* [get_next_line](https://github.com/LYushan/get_next_line) *Private repo
+* [get_next_line](https://github.com/dom0ng/get_next_line) *Private repo
+* [FDF](https://github.com/dom0ng/FDF) *Private repo
+* [ft_printf](https://github.com/dom0ng/ft_printf) *Private repo
 
 ## Enjoy.
 
