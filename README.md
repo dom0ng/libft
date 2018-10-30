@@ -14,7 +14,7 @@ Disclaimer: *Reinventing the wheel is bad, [42][2] makes us do this just so we c
 
 ### What's in it?
 
-As you can see from the [Subject][1], there are 4 sections:
+As you can see from the [Subject][1], there are 5 sections:
 
 1.  **Libft Functions:** Some of the standard C functions
 2.  **Additional functions:** Functions 42 deems will be useful for later projects
